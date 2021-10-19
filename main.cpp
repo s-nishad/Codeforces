@@ -12,6 +12,6 @@ int main() {
             s[0] -= 32;
         }
     }
-    cout <<  s;
+    cout << s;
     return 0;
 }
